@@ -15,7 +15,9 @@ It also copies it to your clipboard for easy pasting. That's it.
 
 ## ⒾⓃⓈⓉⒶⓁⓁ
 
-    $ npm install bubs
+```sh
+$ npm install -g bubs
+```
 
 
 ## ✪
