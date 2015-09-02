@@ -1,0 +1,30 @@
+{
+  "name": "bubs",
+  "version": "0.0.0",
+  "description": "Ⓐ ⓁⓄⓉ ⓄⒻ ⒷⓊⒷⒷⓁⒺⓈ",
+  "main": "index.js",
+  "bin": {
+    "bubs": "./index.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crissdev/bubs.git"
+  },
+  "keywords": [
+    "bubs"
+  ],
+  "author": {
+    "name": "Cristian Trifan",
+    "email": "criss.trifan@gmail.com",
+    "url": "http://crissdev.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crissdev/bubs/issues"
+  },
+  "homepage": "https://github.com/crissdev/bubs#readme",
+  "dependencies": {
+    "copy-paste": "^1.1.3"
+  }
+}
