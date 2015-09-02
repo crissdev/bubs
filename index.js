@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var copy = require('copy-paste').copy;
 var charMap = {
   'A': 'Ⓐ',
